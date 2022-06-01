@@ -1,12 +1,5 @@
 // leetcode 
 /**
- * @file 2290.cpp
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2022-05-29
- * 
- * @copyright Copyright (c) 2022
  * 
  * This was a beautiful problem too. Important to note here was that the ask was to return
  * the minimum number of obstacles that needs to be remove. This is a clear case of Dijikstra
