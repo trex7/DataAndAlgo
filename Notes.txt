@@ -5,6 +5,18 @@ ErrorS:
 1. 198
 2. 704
 
+q that made me think:
+- 496
+- 152
+- 1567
+- 67
+- 13
+- 338
+- 14
+- 2290 - really good
+- 1588 think of combination solution.
+- 
+
 
 1. to cache
 from functools import lru_cache
